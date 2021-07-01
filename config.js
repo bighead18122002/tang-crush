@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Hi Quyên !!',
+    introTitle: 'Hii !!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao Quyên cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao Quỳnh cứ đi nhầm đường
+    Lạc vào tim Phong lẻ loi
+    Đằng sau chữ yêu đây là ???`,
     btnIntro: 'hehe',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích Nhất Phong nha <3',
-    btnNo: 'Không bao giờờờ :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao Quyên lại yêu Phong <3',
-    btnReply: 'Gửi cho Phong <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu Quyên nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón Quyên đi uống bia nhá !',
-    btnAccept: 'Okiiiii lun <3',
+    title: 'Bạn có 2 sự lựa chọn, 1 là Phong 2 là Park Ji Min',
+    desc: 'Bạn chọn aii',
+    btnYes: 'Vẫn cứ là chọn Nhất Phong nha <3',
+    btnNo: 'Đương nhiên là Park Ji Min oppa nha',
+    question:'Tại sao lại chọn tuii',
+    btnReply: 'Gửi cho Phong 1 trái tym <3',
+    reply: 'ngàn trái tym <33333333 =))))',
+    mess: 'Đừng thả tym nữa, Phong mệt ròii',
+    messDesc: 'Tối nay 7h không say không dìa !',
+    btnAccept: 'Oke nuôn bạn iu',
     messLink: 'http://www.facebook.com/nhatphong1812' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
