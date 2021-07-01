@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Đương nhiên là Park Ji Min oppa nha',
     question:'Tại sao lại chọn tuii',
     btnReply: 'Gửi cho Phong 1 trái tym <3',
-    reply: 'ngàn trái tym <33333333 =))))',
+    reply: 'Vì Nhất Phong đáng iuu',
     mess: 'Đừng thả tym nữa, Phong mệt ròii',
     messDesc: 'Tối nay 7h không say không dìa !',
     btnAccept: 'Oke nuôn bạn iu',
